@@ -2,21 +2,20 @@
 Data analytics project analyzing enterprise GenAI adoption and its workforce impact using Kaggle data 
 
 
-# GenAI Adoption & Workforce Impact – Data Analytics Project
+# GenAI Adoption Impact Analysis
 
-This project analyzes enterprise adoption of generative AI and its impact on the workforce using data from [Kaggle](https://www.kaggle.com/datasets/tfisthis/enterprise-genai-adoption-and-workforce-impact-data).
+This project analyzes how generative AI tools are being adopted across industries worldwide, using a dataset of 100,000 enterprise records.
 
-## 🔍 Objectives
-- Explore adoption rates by industry
-- Understand workforce transformations
-- Visualize executive confidence in GenAI ROI
+## Tools Used
+- Python (Pandas, Seaborn, Matplotlib)
+- WordCloud for text visualization
+- Google Colab
 
-## 📁 Structure
-- `data/`: Raw datasets
-- `notebooks/`: Jupyter notebooks with analysis
-- `visuals/`: Charts and visualizations
+## Key Insights
+- Top industries: Technology, Healthcare, Finance
+- Productivity gains correlate with training hours
+- 2023 had the highest GenAI adoption rate
+- Employee sentiment shows mixed feelings: efficiency vs. job uncertainty
 
-## 🚀 How to Run
-1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebooks in `notebooks/`
+
+
